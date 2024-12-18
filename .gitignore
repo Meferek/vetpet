@@ -8,7 +8,7 @@ packages/
 !.nuget/
 
 # Build artefakty
-bin/
+bin/*
 obj/
 
 # Logi, dane diagnostyczne i inne tymczasowe pliki
