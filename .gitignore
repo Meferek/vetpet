@@ -1,0 +1,49 @@
+# Zależności NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Folder z przywróconymi pakietami NuGet
+packages/
+!.nuget/
+
+# Build artefakty
+bin/
+obj/
+
+# Logi, dane diagnostyczne i inne tymczasowe pliki
+*.log
+*.vs/
+.vscode/
+*.user
+*.suo
+*.DS_Store
+*.swp
+*~
+
+# Pliki generowane przez IDE
+.idea/
+*.userosscache
+*.userprefs
+
+# Publikowane pliki
+wwwroot/dist/
+wwwroot/node_modules/
+node_modules/
+
+# ASP.NET Core Configuration
+appsettings.Development.json
+secrets.json
+
+# System operacyjny
+Thumbs.db
+desktop.ini
+
+# SSH klucze
+*.pem
+*.crt
+*.key
+
+# TailwindCSS i inne narzędzia frontendowe
+tailwind.config.js
+postcss.config.js
