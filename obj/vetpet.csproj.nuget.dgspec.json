@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\C#\\vetpet\\vetpet.csproj": {}
+    "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\meferek-c#\\vetpet\\vetpet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\C#\\vetpet\\vetpet.csproj": {
+    "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\meferek-c#\\vetpet\\vetpet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\C#\\vetpet\\vetpet.csproj",
+        "projectUniqueName": "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\meferek-c#\\vetpet\\vetpet.csproj",
         "projectName": "vetpet",
-        "projectPath": "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\C#\\vetpet\\vetpet.csproj",
+        "projectPath": "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\meferek-c#\\vetpet\\vetpet.csproj",
         "packagesPath": "C:\\Users\\krysi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\C#\\vetpet\\obj\\",
+        "outputPath": "C:\\Users\\krysi\\Desktop\\Mateusz\\CODING\\meferek-c#\\vetpet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
