@@ -9,7 +9,7 @@ packages/
 
 # Build artefakty
 bin/*
-obj/
+obj/*
 
 # Logi, dane diagnostyczne i inne tymczasowe pliki
 *.log
